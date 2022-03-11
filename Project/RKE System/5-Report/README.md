@@ -53,3 +53,7 @@ It will be used by the owner of the automobiles.
   4. When we press the blue button four times all four leds should ON in anticlockwise manner which indicate approach light.
 ## SWOT
 ![SWOT](https://user-images.githubusercontent.com/98832647/157811229-94b1beb3-bd24-4608-b92a-4606e70aa0d8.png)
+## Structural diagram
+![Structural Diagram](https://user-images.githubusercontent.com/98832647/157826237-fa995719-e925-4004-824c-c127b1e5deaa.png)
+## Behavioural diagram
+![BD](https://user-images.githubusercontent.com/98832647/157826412-bd191fbb-2dea-493c-9617-eab2ec038471.jpeg)
