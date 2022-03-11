@@ -13,9 +13,9 @@ Remote keyless entry, which is commonly used to protect vehicles from theft,
   A controller chip in the receiver changes the exact frequency required for RKE each time the lock is accessed, 
   a security feature known as rolling code or hopping code.
 
-  # Reuirements:
+ ## Reuirements:
 
-  #  High Level Requirements:
+ ###  High Level Requirements:
  |  ID         |	     DESCRIPTION | STATUS|
  |-------------|------------------|-------|
  |HLR01|STM32 CubeIDE|Implemented |
@@ -27,10 +27,28 @@ Remote keyless entry, which is commonly used to protect vehicles from theft,
  |  HLR07	  | It shall get the battery information |Implemented |
  |  HLR08	  | It shall check the door status |Implemented |
   
-  #  LOW Level Requirements:
+ ###  LOW Level Requirements:
  |  ID         |	     DESCRIPTION |STATUS|
  |-------------|------------------|------|
   |  LLR01	 |   Print "Lock" when the door is unlock |Implemented |
   |   LLR02	  | Print "UnLock" when the door lock |Implemented |
    |  LLR03	  | Print "Alarm Activation/Deactivation" when the alarm is activated/deactivated|Implemented |
    |  LLR04	  | Print "Approach Light" when Blue switch is pressed four times |Implemented |
+   
+## 5W's and 1H
+### WHAT
+The term remote keyless system (RKS), also called keyless entry or remote control locking, refers to a lock that uses an electronic remote control as a key which is activated by a handheld device.
+### WHY
+When within a few yards of the car pressing a button on the remote can lock or unlock the doors, and may perform other functions.
+### WHERE
+It is used in automobiles like cars etc.
+### When
+In automobiles when to lock or unlock the doors and others functions.
+### WHO
+It will be used by the owner of the automobiles.
+### HOW
+  1. When we press the blue button once all four leds should ON that indicate car door is locked.
+  2. When we press the blue button twice all four leds should OF that indicate cae door is unlocked.
+  3. When we press the blue button thrice all four leds should ON in clockwise manner which indicate alarm activate/deactivate.
+  4. When we press the blue button four times all four leds should ON in anticlockwise manner which indicate approach light.
+
