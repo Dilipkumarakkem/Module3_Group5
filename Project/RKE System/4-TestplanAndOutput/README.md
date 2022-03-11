@@ -1,4 +1,4 @@
-# Test Plan and output
+# Test Plan And Output:
 
 |Test ID   |Test Case objective  |Input data   |Expected output   |Actual Output| Status|
 |----------|---------------------|-------------|------------------|-------------|-------|
