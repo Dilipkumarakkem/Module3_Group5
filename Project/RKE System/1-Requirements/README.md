@@ -16,9 +16,21 @@ Remote keyless entry, which is commonly used to protect vehicles from theft,
   # Reuirements:
 
   #  High Level Requirements:
- |  ID         |	     DESCRIPTION |
- |-------------|------------------|
-  |  HLR01	 |  It shall check window status the |
-  |   HLR02	  | It shall check alarm status |
-   |  HLR03	  | It shall get the battery information |
-   |  HLR04	  | It shall check the door status |
+ |  ID         |	     DESCRIPTION | STATUS|
+ |-------------|------------------|-------|
+ |HLR01|STM32 CubeIDE|Implemented |
+ |HLR02|CYGWIN |Implemented |
+ |HLR03|qemu-system-gnuarmeclipse|Implemented |
+ |HLR04|STM32F407VG|Implemented |
+ |  HLR05	 |  It shall check window status the |Implemented |
+ |   HLR06  | It shall check alarm status |Implemented |
+ |  HLR07	  | It shall get the battery information |Implemented |
+ |  HLR08	  | It shall check the door status |Implemented |
+  
+  #  LOW Level Requirements:
+ |  ID         |	     DESCRIPTION |STATUS|
+ |-------------|------------------|------|
+  |  LLR01	 |   Print "Lock" when the door is unlock |Implemented |
+  |   LLR02	  | Print "UnLock" when the door lock |Implemented |
+   |  LLR03	  | Print "Alarm Activation/Deactivation" when the alarm is activated/deactivated|Implemented |
+   |  LLR04	  | Print "Approach Light" when Blue switch is pressed four times |Implemented |
