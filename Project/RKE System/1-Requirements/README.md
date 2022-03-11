@@ -17,7 +17,7 @@ Remote keyless entry, which is commonly used to protect vehicles from theft,
 
   #  High Level Requirements:
  |  ID         |	     DESCRIPTION |
- --------------------------------------------------------
+ |-------------|------------------|
   |  HLR01	 |  It shall check window status the |
   |   HLR02	  | It shall check alarm status |
    |  HLR03	  | It shall get the battery information |
