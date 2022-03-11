@@ -1,6 +1,6 @@
 # TITLE: BICOM SYSTEM
 ## Introduction
-
+This project is an BiCom System. This system Displays  Alarm Status, Door Status . There are leds signaling which helps us to identify the features. For example if we press a button 1 time all the LED will be ON which means the car door is locked, similarly for 2 times all leds will be OFF which means door unlocked, for 3 times the all leds will be ON in clockwise which means the alarm is activated/deactivated, for 4 times the all leds will ON in anti-clockwise direction which means approach light. There are several features like communication between car to key and key to car .
 ## Reuirements:
 
  ###  High Level Requirements:
