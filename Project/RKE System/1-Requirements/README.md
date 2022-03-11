@@ -51,4 +51,5 @@ It will be used by the owner of the automobiles.
   2. When we press the blue button twice all four leds should OF that indicate cae door is unlocked.
   3. When we press the blue button thrice all four leds should ON in clockwise manner which indicate alarm activate/deactivate.
   4. When we press the blue button four times all four leds should ON in anticlockwise manner which indicate approach light.
-
+## SWOT
+![SWOT](https://user-images.githubusercontent.com/98832647/157811229-94b1beb3-bd24-4608-b92a-4606e70aa0d8.png)
