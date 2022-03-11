@@ -1,5 +1,5 @@
 # TITLE: RKE (Remote Keyless Entry)
-## INTRODUCTION :
+## INTRODUCTION:
 RKE (Remote Keyless Entry):
 Remote keyless entry (RKE) is an electronic access system that can be controlled from a distance. 
 RKEs, which are typically used to remotely lock or unlock doors, require the end user to initiate an action that
@@ -13,7 +13,7 @@ Remote keyless entry, which is commonly used to protect vehicles from theft,
   A controller chip in the receiver changes the exact frequency required for RKE each time the lock is accessed, 
   a security feature known as rolling code or hopping code.
 
- ## Reuirements:
+ ## Requirements:
 
  ###  High Level Requirements:
  |  ID         |	     DESCRIPTION | STATUS|
@@ -27,7 +27,7 @@ Remote keyless entry, which is commonly used to protect vehicles from theft,
  |  HLR07	  | It shall get the battery information |Implemented |
  |  HLR08	  | It shall check the door status |Implemented |
   
- ###  LOW Level Requirements:
+ ###  Low Level Requirements:
  |  ID         |	     DESCRIPTION |STATUS|
  |-------------|------------------|------|
   |  LLR01	 |   Print "Lock" when the door is unlock |Implemented |
