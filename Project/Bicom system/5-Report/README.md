@@ -54,3 +54,13 @@ It will be used by the owner of the automobiles.
 |TC_02     |unlock the system  | press the blue switch is pressed twice | Car door unlocked(All leds are OFF) | Car door unlocked(All leds are OFF)|Pass|
 |TC_03     | alarm activation/deactivation  | press the blue switch three times |Car alarm activate/deactivate(All led are ON in clockwise manner) | Car alarm activate/deactivate(All led are ON in clockwise manner)|Pass|
 |TC_04| approach light |press the blue switch four  |Car alarm approach light(All led are ON in anti-clockwise manner)| Car alarm approach light(All led are ON in anti-clockwise manner)|Pass|
+## main
+![Main](https://user-images.githubusercontent.com/98832647/158003671-bf8aadc9-1596-4f07-8823-9f38537d4875.png)
+## Lockdoor
+![Lockdoor](https://user-images.githubusercontent.com/98832647/158003682-36e1de95-0ce2-4646-be86-db67fbcd158f.png)
+## Closedoor
+![unlock door](https://user-images.githubusercontent.com/98832647/158003707-4bd6f392-e515-4725-924a-5a65a8db396c.png)
+## Alarm activate/deactivate
+![Acti](https://user-images.githubusercontent.com/98832647/158003739-6c96d89a-dbc6-426b-b829-f90ef8580adc.png)
+## approach light
+![light approach ](https://user-images.githubusercontent.com/98832647/158003748-e903331a-118f-4731-8802-4cfde8bbf1c7.png)
